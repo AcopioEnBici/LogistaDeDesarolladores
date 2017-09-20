@@ -12,7 +12,7 @@ c) Ciclistas recogen donaciones hasta donde puedan y luego se les guia al centro
 
 Añadan info relevante
 
-Backend: NodeJS ( https://github.com/AcopioEnBici/API-REST ) creo que @organillero y Marco estaban viendo este tema
+Backend: NodeJS ( https://github.com/AcopioEnBici/API-REST ) creo que @artgoce, @organillero y Marco estaban viendo este tema
 
 Frontend Web: ? Quienes
 
