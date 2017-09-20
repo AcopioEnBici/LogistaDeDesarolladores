@@ -18,6 +18,9 @@ Frontend Web: ? Quienes
 
 Apps: Ionic ??? Quienes
 
+Apple: SWIFT @backmota
+
+
 ## Requerimientos
 
 Liga de requerimientos:
