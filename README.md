@@ -6,17 +6,17 @@ a) Donadores de viveres registran su intencion y ubicacion en plataforma web
 
 b) Admin de AcopioEnBici registra ciclistas y centros de acopio en plataforma web
 
-c) Ciclistas recogen donaciones hasta donde puedan y luego se les guia al centro de acopio más cercano por app movil. (Aguas con conectividad, usen una libreria para cachear datos y no depender siempre de tener datos)
+c) Ciclistas recogen donaciones hasta donde puedan y luego se les guia al centro de acopio más cercano por app movil.
 
 ## Equipos
 
 Añadan info relevante
 
-Backend: NodeJS ( https://github.com/AcopioEnBici/API-REST )
+Backend: NodeJS ( https://github.com/AcopioEnBici/API-REST ) creo que @organillero y Marco estaban viendo este tema
 
-Frontend Web: ?
+Frontend Web: ? Quienes
 
-Apps: Ionic
+Apps: Ionic ??? Quienes
 
 ## Requerimientos
 
