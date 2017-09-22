@@ -63,6 +63,9 @@ https://ngmap.github.io
 ## DEPLOY
 
 1.- Copiar en un directorio nuevo la carpeta compilada de app
+
 2.-git init
+
 3.-git origin "acopioenbici.github.io"
+
 4.- commit y push
